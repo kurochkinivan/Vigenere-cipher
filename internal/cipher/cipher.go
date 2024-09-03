@@ -37,7 +37,6 @@ func ExecuteCipher(action, lang string, message []rune, _message_key string, alp
 			message_key = append(message_key, message_key[i])
 		}
 	}
-	// fmt.Println(string(message_key))
 
 	switch lang {
 	case "en":

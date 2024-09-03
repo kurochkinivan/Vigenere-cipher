@@ -5,7 +5,7 @@
 #### Старт проекта:
 
 ``` bash
-cd ./cmd/app
+cd cmd/app
 go run main.go
 ```
 
@@ -17,3 +17,11 @@ go run main.go
 
 * Зашифровать сообщение с помощью ключа (RU/EN);
 * Расшифровать сообщение с помощью ключа (RU/EN). 
+
+---
+
+#### Интерфейс программы
+
+![first ex](readme/firstex.png)
+
+![second ex](readme/secondex.png)
